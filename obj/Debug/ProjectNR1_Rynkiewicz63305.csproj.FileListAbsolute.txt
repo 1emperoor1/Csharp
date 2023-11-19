@@ -1,0 +1,26 @@
+C:\Users\LENOVO\Desktop\projekty programowania\Semestr 2\ProjectNR1_Rynkiewicz63305\bin\Debug\ProjectNR1_Rynkiewicz63305.exe.config
+C:\Users\LENOVO\Desktop\projekty programowania\Semestr 2\ProjectNR1_Rynkiewicz63305\bin\Debug\ProjectNR1_Rynkiewicz63305.exe
+C:\Users\LENOVO\Desktop\projekty programowania\Semestr 2\ProjectNR1_Rynkiewicz63305\bin\Debug\ProjectNR1_Rynkiewicz63305.pdb
+C:\Users\LENOVO\Desktop\projekty programowania\Semestr 2\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\projekty programowania\Semestr 2\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\projekty programowania\Semestr 2\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.LaboratoriumNr1.resources
+C:\Users\LENOVO\Desktop\projekty programowania\Semestr 2\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.ProjektNr1_Rynkiewicz63305.resources
+C:\Users\LENOVO\Desktop\projekty programowania\Semestr 2\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\projekty programowania\Semestr 2\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\projekty programowania\Semestr 2\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\projekty programowania\Semestr 2\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.exe
+C:\Users\LENOVO\Desktop\projekty programowania\Semestr 2\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.pdb
+C:\Users\student\OneDrive - Vistula University\Desktop\dre\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.csproj.AssemblyReference.cache
+C:\Users\student\OneDrive - Vistula University\Desktop\dre\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\OneDrive - Vistula University\Desktop\dre\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.Form1.resources
+C:\Users\student\OneDrive - Vistula University\Desktop\dre\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.LaboratoriumNr1.resources
+C:\Users\student\OneDrive - Vistula University\Desktop\dre\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.ProjektNr1_Rynkiewicz63305.resources
+C:\Users\student\OneDrive - Vistula University\Desktop\dre\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.Properties.Resources.resources
+C:\Users\student\OneDrive - Vistula University\Desktop\dre\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.csproj.GenerateResource.cache
+C:\Users\student\OneDrive - Vistula University\Desktop\dre\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive - Vistula University\Desktop\dre\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.exe
+C:\Users\student\OneDrive - Vistula University\Desktop\dre\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.pdb
+C:\Users\student\OneDrive - Vistula University\Desktop\dre\ProjectNR1_Rynkiewicz63305\bin\Debug\ProjectNR1_Rynkiewicz63305.exe.config
+C:\Users\student\OneDrive - Vistula University\Desktop\dre\ProjectNR1_Rynkiewicz63305\bin\Debug\ProjectNR1_Rynkiewicz63305.exe
+C:\Users\student\OneDrive - Vistula University\Desktop\dre\ProjectNR1_Rynkiewicz63305\bin\Debug\ProjectNR1_Rynkiewicz63305.pdb
+C:\Users\LENOVO\Desktop\projekty programowania\Semestr 2\ProjectNR1_Rynkiewicz63305\obj\Debug\ProjectNR1_Rynkiewicz63305.Kokpit_Rynkiewicz63305.resources
